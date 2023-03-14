@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button {
+    align-self: center;
+    margin: 30px 0px;
+    font-size: 36px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex:auto;
+}
+
+.container > div {
+    /* width: 6.25%; */
+    height: 0;
+    /* padding-bottom: 6.25%; */
+    border: 2px solid black;
+    margin: -2px;
+}

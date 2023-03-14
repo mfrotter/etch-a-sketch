@@ -1,1 +1,2 @@
 # etch-a-sketch
+Demonstrates use of querySelectors, EventListeners, creating HTML tags with Javascript, editing style with Javascript, and manipulating DOM by appending and removing children nodes of parent container. Move the cursor around the window to switch grid from white to black. Click the button to resize the number of grids.
